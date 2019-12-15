@@ -1,0 +1,223 @@
+{
+  "project_info": {
+    "project_number": "653788779814",
+    "firebase_url": "https://rotibankbackend.firebaseio.com",
+    "project_id": "rotibankbackend",
+    "storage_bucket": "rotibankbackend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653788779814:android:bd13dee26ac53e6f",
+        "android_client_info": {
+          "package_name": "admin.rotibankmumbai.com.rotibank_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653788779814-oo4lnghq9j8c7rd0kvtrvt0jsj769mu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "admin.rotibankmumbai.com.rotibank_admin",
+            "certificate_hash": "c7bef4cb0cc2c5a5f1dc29e611602a170625f801"
+          }
+        },
+        {
+          "client_id": "653788779814-9t571h2rqahvbf7q67ddp1uqfv61gr7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTMmRmFo2X8OZzWLjR369k5VI5CcWYbqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653788779814-2jmssp5vlrnbs4u1jvppi7dnr1gkdccu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "653788779814-o8ij2s5hcmvng7arndka8p72omtlam58.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rotibank.mumbai.donate"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653788779814:android:aafd77e296848d8a",
+        "android_client_info": {
+          "package_name": "com.example.android.rb_adminapp_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653788779814-3fbn26rngj0ksa8ha54gei47locc3mnj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.rb_adminapp_v1",
+            "certificate_hash": "e9ac7acc3fd11be6d874f547e42a69badf6f22c6"
+          }
+        },
+        {
+          "client_id": "653788779814-9t571h2rqahvbf7q67ddp1uqfv61gr7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTMmRmFo2X8OZzWLjR369k5VI5CcWYbqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653788779814-2jmssp5vlrnbs4u1jvppi7dnr1gkdccu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "653788779814-o8ij2s5hcmvng7arndka8p72omtlam58.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rotibank.mumbai.donate"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653788779814:android:5a90642d8d02f4627c5de7",
+        "android_client_info": {
+          "package_name": "com.example.rotibankadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653788779814-9t571h2rqahvbf7q67ddp1uqfv61gr7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTMmRmFo2X8OZzWLjR369k5VI5CcWYbqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653788779814-2jmssp5vlrnbs4u1jvppi7dnr1gkdccu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "653788779814-o8ij2s5hcmvng7arndka8p72omtlam58.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rotibank.mumbai.donate"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653788779814:android:43a2e653aabbe0e2",
+        "android_client_info": {
+          "package_name": "com.rotibank.mumbai.donate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653788779814-eg0v85uk1qvk9jabukkja7a2771028c0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rotibank.mumbai.donate",
+            "certificate_hash": "e9ac7acc3fd11be6d874f547e42a69badf6f22c6"
+          }
+        },
+        {
+          "client_id": "653788779814-9t571h2rqahvbf7q67ddp1uqfv61gr7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTMmRmFo2X8OZzWLjR369k5VI5CcWYbqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653788779814-2jmssp5vlrnbs4u1jvppi7dnr1gkdccu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "653788779814-o8ij2s5hcmvng7arndka8p72omtlam58.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rotibank.mumbai.donate"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653788779814:android:86fd418faff9a986",
+        "android_client_info": {
+          "package_name": "example.com.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653788779814-eg28ka99fmdcffhvbb1jei0uu4gd967u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "example.com.flutter_app",
+            "certificate_hash": "c7bef4cb0cc2c5a5f1dc29e611602a170625f801"
+          }
+        },
+        {
+          "client_id": "653788779814-9t571h2rqahvbf7q67ddp1uqfv61gr7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTMmRmFo2X8OZzWLjR369k5VI5CcWYbqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653788779814-2jmssp5vlrnbs4u1jvppi7dnr1gkdccu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "653788779814-o8ij2s5hcmvng7arndka8p72omtlam58.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rotibank.mumbai.donate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
