@@ -27,7 +27,7 @@ class _FoodDonationsState extends State<FoodDonations>
               crossAxisAlignment: CrossAxisAlignment.start,
               children: <Widget>[
                 Text(
-                  'Food Donations',
+                  'Food Donation',
                   textAlign: TextAlign.left,
                   style: TextStyle(fontSize: 26.0),
                 ),
