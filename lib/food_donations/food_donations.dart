@@ -12,7 +12,7 @@ class _FoodDonationsState extends State<FoodDonations>
   @override
   void initState() {
     super.initState();
-    _tabController = TabController(vsync: this, initialIndex: 0, length: 4);
+    _tabController = TabController(vsync: this, initialIndex: 0, length: 3);
   }
 
   @override
@@ -64,14 +64,7 @@ class _FoodDonationsState extends State<FoodDonations>
                         ),
                       ),
                     ),
-                    Tab(
-                      child: Text(
-                        'HeatMap',
-                        style: TextStyle(
-                          fontSize: 14.0,
-                        ),
-                      ),
-                    ),
+
                   ],
                 ),
               ],
